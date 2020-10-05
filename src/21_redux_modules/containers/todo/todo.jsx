@@ -6,6 +6,7 @@ import ToDoList from '../../components/todo-list/todo-list';
 import Footer from '../../components/footer/footer';
 
 import './todo.css';
+import {addTask} from "../../actions/actionCreator";
 
 const TASKS = [
   {
@@ -38,6 +39,20 @@ class ToDo extends Component {
     })
   }
 
+  addTask = ({key}) => {
+    const {taskText} = this.state
+
+    if(taskText.length > 3 && key === 'Enter'){
+      const {addTask} = this.props
+
+      addTask((new Date()).getTime(), taskText, false)
+
+      this.setState({
+        taskText: ''
+      })
+    }
+  }
+
   render() {
     const { activeFilter, taskText} = this.state;
     const {tasks} = this.props
@@ -45,7 +60,7 @@ class ToDo extends Component {
 
     return (
       <div className="todo-wrapper">
-        <ToDoInput value={taskText} onChange={this.handleInputChange}/>
+        <ToDoInput onKeyPress={this.addTask} value={taskText} onChange={this.handleInputChange} />
         {isTasksExist && <ToDoList tasksList={tasks} />}
         {isTasksExist && <Footer amount={tasks.length} activeFilter={activeFilter} />}
       </div>
@@ -55,4 +70,4 @@ class ToDo extends Component {
 
 export default connect(state => ({
     tasks: state.tasks
-}))(ToDo)
+}), {addTask})(ToDo)
