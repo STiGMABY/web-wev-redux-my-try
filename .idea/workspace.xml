@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12744c8b-97ed-4dc9-8e13-f0fe4470dfcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-js-tutorial-21_redux_modules.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_components/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_state/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/04_props/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/05_props/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/06_events/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/07_conditional_rendering/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/08_lists/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/09_fragment_&amp;_css/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/09_fragment_&amp;_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/10_form/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/11_lifecycle_methods/lifecycle (new).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/11_lifecycle_methods/lifecycle (old).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/12_refs/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/13_HOCs/HOC/loadingHOC.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/13_HOCs/HOC/loadingHOC.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/13_HOCs/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/14_portals/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/15_context/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16_api/components/input/input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16_api/components/input/input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16_api/components/news/news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16_api/components/news/news.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16_api/components/title/title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16_api/components/title/title.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16_api/containers/news/news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/16_api/containers/news/news.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/input/input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/input/input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/news/news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/news/news.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/pagination/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/pagination/pagination.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/select/select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/select/select.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/title/title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/components/title/title.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/containers/news/news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17_api/containers/news/news.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/contacts/contacts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/contacts/contacts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/footer/footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/header/header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/home/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/home/home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/posts/posts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/18_router/components/posts/posts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/Lesson.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/contacts/contacts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/contacts/contacts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/error/error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/error/error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/footer/footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/header/header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/home/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/home/home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/main/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/main/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/post/post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/post/post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/posts/posts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/19_router/components/posts/posts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/footer/footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/title/title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/title/title.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/todo-input/todo-input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/todo-input/todo-input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/todo-item/todo-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/todo-item/todo-item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/todo-list/todo-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/components/todo-list/todo-list.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/containers/todo/todo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/containers/todo/todo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_redux_modules/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iJRFTqDL4oQ0arHwznTCBaGfV2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12744c8b-97ed-4dc9-8e13-f0fe4470dfcc" name="Default Changelist" comment="" />
+      <created>1601623604493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601623604493</updated>
+      <workItem from="1601623609358" duration="698000" />
+      <workItem from="1601644728580" duration="625000" />
+      <workItem from="1601890025838" duration="476000" />
+      <workItem from="1601901327809" duration="1020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="7" key="SettingsEditor" timestamp="1601901871120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601901871120" />
+  </component>
+</project>
