@@ -137,6 +137,8 @@
       <workItem from="1601644728580" duration="625000" />
       <workItem from="1601890025838" duration="476000" />
       <workItem from="1601901327809" duration="1020000" />
+      <workItem from="1601917114169" duration="532000" />
+      <workItem from="1601926320326" duration="3174000" />
     </task>
     <servers />
   </component>
@@ -149,6 +151,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="461" y="104" key="FileChooserDialogImpl" timestamp="1601917642508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="461" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601917642508" />
     <state x="183" y="7" key="SettingsEditor" timestamp="1601901871120">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
